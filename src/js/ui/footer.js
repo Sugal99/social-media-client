@@ -9,6 +9,5 @@ export const footer = () => {
   if (isLoggedIn()) {
     const profile = load('profile');
     actions.prepend(profileButton(profile));
-    //console.log(undeclaredVariable)
   }
 };
