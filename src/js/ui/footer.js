@@ -1,13 +1,13 @@
-import { isLoggedIn } from '../api/index.js';
-import { load } from '../storage/load.js';
-import { profileButton } from '../templates/profile/index.js';
+import { isLoggedIn } from '../api/index.js'
+import { load } from '../storage/load.js'
+import { profileButton } from '../templates/profile/index.js'
 
 export const footer = () => {
-  const footerElement = document.querySelector('footer'); // Change the variable name for clarity
-  const actions = footerElement.querySelector('#footerActions'); // Change the variable name for clarity
+  const footer = document.querySelector('footer')
+  const actions = footer.querySelector('#footerActions')
 
   if (isLoggedIn()) {
-    const profile = load('profile');
-    actions.prepend(profileButton(profile));
+    const profile = load('profile')
+    actions.prepend(profileButton(profile))
   }
-};
+}
