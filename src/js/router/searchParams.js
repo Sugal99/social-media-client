@@ -3,7 +3,7 @@ export const getSearchParams = () => {
   return Object.fromEntries(url.searchParams);
 };
 
-export const setSearchParamshellowWorld12312312313 = (params) => {
+export const setSearchParams = (params) => {
   const newParams = {
     ...getSearchParams(),
     ...params,
