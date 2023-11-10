@@ -1,5 +1,12 @@
 # Workflow CA
 
+---
+
+[![Automated E2E Testing](https://github.com/Sugal99/social-media-client/actions/workflows/gpt.yml/badge.svg) (https://github.com/Sugal99/social-media-client/actions/workflows/gpt.yml)
+
+
+
+
 ### Prettier & ESLint
 Prettier is an opinionated code formatter that automatically formats your code, ensuring a consistent style and making it more readable. I've incorporated ESLint and Prettier to maintain uniform coding standards and identify errors proactively.
 ESLint conducts static code analysis to detect issues, while Prettier automatically formats our code for consistency and readability.
