@@ -1,3 +1,5 @@
+# Workflow CA
+
 ### Prettier & ESLint
 Prettier is an opinionated code formatter that automatically formats your code, ensuring a consistent style and making it more readable. I've incorporated ESLint and Prettier to maintain uniform coding standards and identify errors proactively.
 ESLint conducts static code analysis to detect issues, while Prettier automatically formats our code for consistency and readability.
