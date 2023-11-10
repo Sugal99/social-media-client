@@ -6,8 +6,6 @@
 [![Deploy static content to Pages](https://github.com/Sugal99/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/Sugal99/social-media-client/actions/workflows/pages.yml)
 
 
-[![pages build deployment](https://github.com/Sugal99/social-media-client/actions/workflows/pages-build-deployment/badge.svg)](https://github.com/Sugal99/social-media-client/actions/workflows/pages-build-deployment)
-
 
 
 
