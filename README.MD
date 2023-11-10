@@ -18,7 +18,7 @@ Installation:
 ```bash
 npm install eslint --save-dev
 ```
-Run Prettier:
+Run eslint:
 ```bash
 npm run lint
 ```
