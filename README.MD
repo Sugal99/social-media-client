@@ -1,6 +1,6 @@
 # Workflow CA
 
----
+
 
 [![Automated E2E Testing](https://github.com/Sugal99/social-media-client/actions/workflows/gpt.yml/badge.svg) (https://github.com/Sugal99/social-media-client/actions/workflows/gpt.yml)
 
